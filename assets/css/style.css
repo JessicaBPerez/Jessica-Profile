@@ -328,7 +328,7 @@ textarea.form-control {
 }
 
 .btn-custom-2 {
-    background: rgba(253, 115, 90, 1);
+    background: #ff3c6d;
     border-radius: 3px;
     color: #fff;
 }
@@ -337,7 +337,7 @@ textarea.form-control {
 .btn-custom-2:focus,
 .btn-custom-2:active,
 .btn-custom-2.active {
-    background: rgba(253, 115, 90, 1);
+    background: #ff3c6d;
     color: #fff;
     box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.1)
 }
@@ -1169,7 +1169,7 @@ figure {
 
 .side-image {
     position: absolute;
-    background: url("../images/about.jpg") scroll center no-repeat;
+    background: url("../images/Jessica3.png") scroll center no-repeat;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;

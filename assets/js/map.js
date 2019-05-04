@@ -1,5 +1,4 @@
 // When the window has finished loading create our google map below
-const GOOGLE_API_KEY = process.env.GOOGLE_API_KEY;
 google.maps.event.addDomListener(window, 'load', init);
 
 function init() {
