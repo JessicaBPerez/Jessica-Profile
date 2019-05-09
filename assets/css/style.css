@@ -1820,4 +1820,39 @@ figure {
         margin: 0 0 30px;
         letter-spacing: 3px;
     }
+    /* .link-whole {
+        left: 50%;
+        margin: 0 5rem;
+        color: black;
+        background: #251d1b;
+    } */
+}
+
+.link-whole {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.link {
+    background: #ff3c6d;
+    color: #fff;
+    outline: 0 none;
+    font-weight: 500;
+    font-size: 15px;
+    letter-spacing: 3px;
+    color: #5b5963;
+    padding: 10px 20px;
+    text-transform: uppercase;
+    margin-right: 3rem;
+}
+
+.container a {
+    color: #fff;
+}
+
+.container a:hover {
+    background: #fff;
+    outline: 2px black;
+    color: #5b5963;
 }
